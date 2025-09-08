@@ -23,13 +23,13 @@ Although the images here show the **full undergraduate roadmaps** (e.g., MIT EEC
 
 ### MIT EECS 6-3 (Computer Science and Engineering)
 
-![MIT EECS 6-3 Roadmap](./Awesome_CSMATH_Courses/mit.jpg)
+![MIT EECS 6-3 Roadmap](./mit.jpg)
 
 ---
 
 ### UC Berkeley CS Course Map
 
-![UC Berkeley CS Roadmap](./Awesome_CSMATH_Courses/ucb.jpg)
+![UC Berkeley CS Roadmap](./ucb.jpg)
 
 ---
 
